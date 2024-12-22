@@ -119,9 +119,6 @@ Exit from the ACCESS state is controlled by the **PREADY** signal from the slave
 - The simulation results show that the data read from a particular memory location is same as the data written to the given memory location.               
 - The results obtained after the simulation will be compared with the results.
 
-# Acknowledgement
-
-I would like to thank our Institution for equipping us with Advanced VLSI Lab facilities to successfully execute our project. I am also grateful to our mentor, [Dr. Saroj Rout](https://www.linkedin.com/in/sroutk?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGPdq1QbhS6mnLJPpjzlEIQ%3D%3D) and  [Prof: Santunu sarangi](https://www.linkedin.com/in/santunu-sarangi-b731305b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bg9BX%2F0YtQ0yyTenaLLJTog%3D%3D) for their constant advice and guidance throughout the project duration.
 
 # References
         
