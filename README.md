@@ -1,9 +1,5 @@
 # AMBA-APB-PROTOCOL
-###        Raj Kumar Laldev 
- Advance VLSI Lab   
-   Silicon institute of technology Bhubaneswar,India  
-       rajbihar5364@gmail.com
- # Table of Contents 
+
 - [Introduction of AMBA](#Introduction-of-AMBA)  
 - [AMBA Bus architecture](#AMBA-Bus-Architechture)   
   * [Types of AMBA Bus](#Types-of-AMBA-Bus)
